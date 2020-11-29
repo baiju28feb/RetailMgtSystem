@@ -33,7 +33,7 @@ namespace RMDataManager.App_Start
                          new Parameter
                         {
                             type ="string",
-                            name = "usernamed",
+                            name = "username",
                             required = false,
                             @in = "formData"
                         },
